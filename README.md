@@ -5,7 +5,7 @@
 ![FooBar Invitation](./img/foobar.png "FooBar Invitation")
 
 Google Foo Bar is the Easter Egg for a developer. It's known to be Google's secret recruiting process embeded within the search engine itself. My invitation split the engine open on a Mondan evening. The are 5 levels, which outline a story. Each level is in its own directory. Parts of the story are unlocked as you progress. Please check [journal.md][journal] for the full story. <br>
-(*Still in progress. Solutions would be posted at later time.*)
+(*Still in progress. Solutions would be added at later time.*)
 
 #### Let's play!
 
