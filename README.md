@@ -4,7 +4,7 @@
 
 ![FooBar Invitation](./img/foobar.png "FooBar Invitation")
 
-Google Foo Bar is the Easter Egg for a developer. It's known to be Google's secret recruiting process embeded within the search engine itself. My invitation split the engine open on a Mondan evening. The are 5 levels, which outline a story. Each level is in its own directory. Parts of the story are unlocked as you progress. Please check [journal.md][journal] for the full story. <br>
+The are 5 levels, which outline a story. Each level is in its own directory. Parts of the story are unlocked as you progress. Please check [story.md][story] for the full story. <br>
 (*Still in progress. Solutions would be added at later time.*)
 
 #### Let's play!
@@ -36,12 +36,13 @@ Google Foo Bar is the Easter Egg for a developer. It's known to be Google's secr
 ---
 
 ## **Level 1**
-* [I Love Lance & Janice][level1]
+* [I Love Lance & Janice][level1] Time: 24 hours
 * Level 1: 100% [==========================================]
 
 ## **Level 2**
-* Not unlocked yet.
-* Level 2:   0% [..........................................]
+* [Don't Get Volunteered][level2.1] Time: 72 hours
+* [Lovely Lucky Lambs][level2.2] Time: 72 hours
+* Level 2: 100% [==========================================]
 
 ## **Level 3**
 * Not unlocked yet.
@@ -56,5 +57,7 @@ Google Foo Bar is the Easter Egg for a developer. It's known to be Google's secr
 * Level 5:   0% [..........................................]
 
 
-[journal]:./journal.md
-[level1]: ./level1-i-love-lance-janice
+[story]:./story.md
+[level1]:./level1-i-love-lance-janice
+[level2.1]:./level2-dont-get-volunteered
+[level2.2]:./level2.2-lovely-lucky-lambs
