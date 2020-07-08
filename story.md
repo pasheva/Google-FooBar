@@ -21,3 +21,7 @@ Awesome! Commander Lambda was so impressed by your efforts that she's made you h
 ## **Level 4**
 ## **Level 5**
 
+
+To invite a friend to try a challenge, send the link below. This is a single-use code, so choose wisely.
+
+Refer a friend: "https://foobar.withgoogle.com/?eid=qOZds" (Unused)
